@@ -1,0 +1,8 @@
+{
+  "name": "my-level",
+  "template": "platformer",
+  "version": "0.1.0",
+  "entry": "src/main.js",
+  "width": 800,
+  "height": 450
+}
